@@ -53,7 +53,9 @@ public class DataTypes {
         String j = "Software Testing is fun :P ";
         System.out.println("j: "+j);
 
-
+        String k = "software testing";
+        String l = "is fun :P ";
+        System.out.println(k + " " + l);
     }
 
 }
