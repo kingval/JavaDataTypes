@@ -28,7 +28,7 @@ public class DataTypes {
         float e = 1.4546f;
         System.out.println("f: " +e);
 
-        //Double range
+        //Double range from 4.94065645841246544e-324d to 1.79769313486231570e+308d (positive or negative)
         double f = 262650.777777777777777;
         System.out.println("f: "+f);
 
