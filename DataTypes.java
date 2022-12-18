@@ -10,7 +10,7 @@ public class DataTypes {
         byte a = -20;
         System.out.println("a: "+a);  // the plus is called concatenation
 
-        //shirt range is -32768 to 32767
+        //short range is -32768 to 32767
         short b = -368;
         System.out.println("b: "+b);
 
